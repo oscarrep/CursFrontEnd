@@ -1,4 +1,7 @@
 /* DESKTOP VERSION */
+body {
+    background-color: rgb(208, 124, 216);
+}
 
 .back {
     max-width: 1200px;
@@ -111,6 +114,10 @@
 /* TABLET VERSION */
 @media only screen and (max-width: 768px) {
 
+    body {
+        background-color: rgb(135, 252, 193);
+    }
+
     .header,
     .footer{
         display: block;
@@ -160,6 +167,10 @@
 
 /* MOBILE VERSION */
 @media only screen and (max-width: 600px) {
+
+    body {
+        background-color: rgb(252, 135, 135);
+    }
 
     .boxBlueGrey {
         display: block;

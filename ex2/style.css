@@ -1,7 +1,4 @@
 /* DESKTOP VERSION */
-body {
-    background-color: rgb(208, 124, 216);
-}
 
 .back {
     max-width: 1200px;
@@ -113,11 +110,6 @@ body {
 
 /* TABLET VERSION */
 @media only screen and (max-width: 768px) {
-
-    body {
-        background-color: rgb(135, 252, 193);
-    }
-
     .header,
     .footer{
         display: block;
@@ -161,60 +153,6 @@ body {
     .navegacion {
         margin: 3%;
         width: 91%;
-    }
-
-}
-
-/* MOBILE VERSION */
-@media only screen and (max-width: 600px) {
-
-    body {
-        background-color: rgb(252, 135, 135);
-    }
-
-    .boxBlueGrey {
-        display: block;
-    }
-
-    .logoSocial,
-    .nav {
-        width: 94%;
-    }
-
-    .nav {
-        margin: 2%;
-    }
-
-    .articlePubli {
-        display: inline-block;
-    }
-
-    .articleContainer,
-    .publiContainer {
-        width: 94%;
-    }
-
-    .articleContainer{
-        display: block;
-    }
-
-    .publi {
-        margin-bottom: 0%;
-        margin: 3%;
-        width: 95%;
-    }
-
-    .boxGrey,
-    .boxRed {
-        width: 92%;
-        padding: 1%;
-        margin: 3%;
-    }
-
-    .article,
-    .navegacion {
-        margin: 2%;
-        width: 98%;
     }
 
 }
