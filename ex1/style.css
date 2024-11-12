@@ -1,0 +1,117 @@
+.bg,
+.bg2,
+.bg3 {
+    background-color: rgb(10, 10, 10);
+    margin-bottom: 3%;
+}
+
+.bg {
+    padding: 1%;
+}
+
+.bg2 {
+    width: 60%;
+    padding: 3%;
+}
+
+.bg3 {
+    width: 40%;
+    padding: 3%;
+}
+
+
+.bgArticlePubli {
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+}
+
+.boxBlueGrey,
+.boxOrange {
+    margin: 2%;
+    text-align: center;
+}
+
+.boxBlueGrey {
+    background-color: rgb(72, 90, 128);
+    display: flex;
+}
+
+.boxOrange {
+    background-color: rgb(247, 120, 47);
+    padding: 2%;
+}
+
+.boxRed {
+    background-color: rgb(185, 52, 52);
+    display: flex;
+    padding: 2%;
+}
+
+.redBox {
+    background-color: rgb(30, 255, 0);
+    height: 100%;
+    width: 40%;
+}
+
+.boxGrey {
+    background-color: rgb(88, 97, 116);
+    display: flex;
+}
+
+.logo,
+.social,
+.nav {
+    background-color: tomato;
+    text-align: justify;
+    padding: 1%;
+}
+
+.logo,
+.social {
+    margin: 2%;
+    width: 20%;
+}
+
+.nav {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 60%;
+}
+
+.pie {
+    background-color: rgb(255, 234, 141);
+    padding: 1%;
+    margin: 2%;
+}
+
+.publi {
+    background-color: rgb(255, 230, 0);
+    padding: 3%;
+    margin: 3%;
+    width: 100%;
+}
+
+.banner {
+    background-color: rgb(247, 184, 47);
+    padding: 2%;
+    font-size: 30px;
+    text-align: justify;
+    font-weight: bold;
+}
+
+.article {
+    background-color: rgb(78, 124, 223);
+    text-align: justify;
+    padding: 2%;
+    margin: 3%;
+    width: 50%;
+}
+
+.navegacion {
+    background-color: rgb(155, 184, 247);
+    text-align: justify;
+    padding: 2%;
+    margin: 3%;
+    width: 100%;
+}
